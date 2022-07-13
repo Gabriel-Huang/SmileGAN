@@ -1,0 +1,7 @@
+*.pyc
+datasets/
+checkpoints/
+*DS_*
+results/
+test/
+*pycache*
